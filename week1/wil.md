@@ -15,8 +15,8 @@
 
 
 \## Whitelabel Error Page 스크린샷
+<img width="1766" height="600" alt="벡엔드 과제 홈페이지" src="https://github.com/user-attachments/assets/536409b4-09a8-4b90-9fa2-43754d4e3a46" />
 
-(스크린샷은 깃허브에 이미지로 첨부)
 
 
 
