@@ -44,39 +44,28 @@
 
 
 
-\## API 명세서
 
 
 
-\### 상품 기능
 
+## 🛒 API 명세서
+
+### 상품 기능
 | 기능 | HTTP Method | URI |
-
 |---|---|---|
-
 | 상품 등록 | POST | /products |
-
 | 상품 리스트 조회 | GET | /products |
-
 | 상품 상세 조회 | GET | /products/{productId} |
-
 | 상품 수정 | PATCH | /products/{productId} |
-
 | 상품 삭제 | DELETE | /products/{productId} |
 
-
-
-\### 주문 기능
-
+### 주문 기능
 | 기능 | HTTP Method | URI |
-
 |---|---|---|
-
 | 주문 생성 | POST | /orders |
-
 | 주문 리스트 조회 | GET | /orders |
-
 | 주문 상세 조회 | GET | /orders/{orderId} |
+| 주문 취소 | PATCH | /orders/{orderId} |
 
 | 주문 취소 | PATCH | /orders/{orderId} |
 
