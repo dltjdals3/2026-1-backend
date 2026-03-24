@@ -29,13 +29,6 @@
 * **스프링(Spring)**: 자바(Java) 기반의 강력한 백엔드(Back-end) 프레임워크(Framework)입니다.
 * **스프링 부트(Spring Boot)**: 복잡한 초기 설정 없이 스프링(Spring)을 빠르고 쉽게 사용할 수 있게 해주는 도구입니다.
 
----
-
-## 📝 주차별 과제 (Assignments)
-* [x] Spring Boot 개발 환경 세팅 및 실행하기
-* [x] 온라인 쇼핑몰 프로젝트 API 명세서 작성하기
-* [x] 강의 내용 정리한 WIL 작성하기
-
 
 
 ## Whitelabel Error Page 스크린샷
