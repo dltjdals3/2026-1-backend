@@ -1,6 +1,6 @@
 # [1주차] 웹의 소통 방식, HTTP와 REST API
 
-## 📚 배운 내용 (Learned)
+## 배운 내용 
 
 ### 1. 웹(Web)과 클라이언트-서버(Client-Server) 모델
 * **클라이언트(Client)**: 서버(Server)에 요청(Request)을 보내고 응답(Response) 결과를 받아 사용하는 주체입니다.
