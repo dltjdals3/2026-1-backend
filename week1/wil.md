@@ -67,5 +67,5 @@
 | 주문 상세 조회 | GET | /orders/{orderId} |
 | 주문 취소 | PATCH | /orders/{orderId} |
 
-| 주문 취소 | PATCH | /orders/{orderId} |
+
 
