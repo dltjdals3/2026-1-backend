@@ -19,7 +19,7 @@
 * 클라이언트의 요청(request)과 서버의 응답(response)을 통해 작동
 ### 주요 특징
 - **무상태성(Stateless)**: 서버는 클라이언트의 이전 요청을 기억하지 않고 매 요청을 독립적으로 처리
-- **비연결성(Connectionless)**: 클라이언트가 요청을 보내고 응답을 받으면 서버와의 연결을 끊음
+- **비연결성(Connectionless)**: 클라이언트가 요청을 보내고 응답을 받은 후 서버와 연결을 유지하지 않음
 * **HTTP 메서드(HTTP Method)**:
   * `GET`: 자원(Resource) 조회
   * `POST`: 자원(Resource) 추가 및 등록
