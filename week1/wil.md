@@ -41,7 +41,7 @@
 
 
 
-## 🛒 API 명세서
+## API 명세서
 
 ### 상품 기능
 | 기능 | HTTP Method | URI |
