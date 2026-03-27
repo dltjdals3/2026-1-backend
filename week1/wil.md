@@ -28,14 +28,15 @@
   * `DELETE`: 자원(Resource) 삭제
 * **상태 코드(Status Code)**: 200(성공), 201(생성됨), 400(잘못된 요청), 404(찾을 수 없음), 500(서버 내부 오류) 등이 있습니다.
 
-### 3. API(Application Programming Interface)와 REST API
-* **API**: 프로그램 간 기능이나 데이터를 사용할 수 있도록 미리 정해둔 규칙이자 소통 창구입니다.
-* **REST API**: HTTP의 장점을 살린 아키텍처(Architecture)입니다. 자원(Resource)은 URI로, 행위(Verb)는 HTTP 메서드(Method)로, 표현(Representation)은 JSON 형식으로 나타내는 웹 서비스 설계 방식입니다.
+### 3. API와 REST API
+* **API**: 한 프로그램이 다른 프로그램의 기능이나 데이터를 사용할 수 있도록 미리 정해놓은 약속(규칙)이자 소통 창구
+* **REST API**:  자원(Resource)을 고유한 URI로 식별하고, 해당 자원에 대한 행위(Verb)를 HTTP 메서드(GET, 
+POST, PUT, DELETE 등)로 정의하며, 그 결과를 JSON 같은 표준 형식으로 표현하는 웹 서비스 아키텍처 스타일
 
 ### 4. 스프링(Spring)과 스프링 부트(Spring Boot)
-* **프레임워크(Framework)**: 개발을 효율적으로 할 수 있도록 기본 구조를 제공하는 뼈대(틀)입니다.
-* **스프링(Spring)**: 자바(Java) 기반의 강력한 백엔드(Back-end) 프레임워크(Framework)입니다.
-* **스프링 부트(Spring Boot)**: 복잡한 초기 설정 없이 스프링(Spring)을 빠르고 쉽게 사용할 수 있게 해주는 도구입니다.
+* **프레임워크(Framework)**: 애플리케이션 개발을 쉽고 효율적으로 할 수 있도록 필요한 기본 구조와 공통 기능을 제공하는 뼈대(틀)
+* **스프링(Spring)**: Java 엔터프라이즈 애플리케이션 개발에 사용되는 오픈소스 경량급 애플리케이션 프레임워크
+* **스프링 부트(Spring Boot)**: 복잡한 초기 설정 없이 스프링(Spring)을 빠르고 쉽게 사용할 수 있게 해주는 도구
 
 
 
